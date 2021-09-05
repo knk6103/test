@@ -9,6 +9,9 @@ pyenv 구성하기 on Mac (참고 : https://jjeong.tistory.com/1514)
   
 keras 설치_ 딥러닝 라이브러리 시작 (참고 : https://tykimos.github.io/2017/08/07/Keras_Install_on_Mac/)
 
+pandas 설치 (참고 : https://carpfish.tistory.com/entry/pip%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Pandas-%EC%84%A4%EC%B9%98python3)
+  pip3 install pandas
+
 python Documentation > Library Reference (참고 : https://docs.python.org/3/library/index.html)
 
 visual studio code 설치
