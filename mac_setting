@@ -1,0 +1,10 @@
+맥북에서 파이썬 설치
+  공식 홈페이지 다운로드 창에서 (https://www.python.org/downloads/) 설치하기
+
+jupyter notebook 설치 (참고 : https://ijsilver.tistory.com/60)
+  pip3 install jupyter
+  
+pyenv 구성하기 on Mac (참고 : https://jjeong.tistory.com/1514)
+  brew install pyenv
+  
+keras 설치_ 딥러닝 라이브러리 시작 (참고 : https://tykimos.github.io/2017/08/07/Keras_Install_on_Mac/)
