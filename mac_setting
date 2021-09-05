@@ -12,6 +12,9 @@ keras 설치_ 딥러닝 라이브러리 시작 (참고 : https://tykimos.github.
 pandas 설치 (참고 : https://carpfish.tistory.com/entry/pip%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Pandas-%EC%84%A4%EC%B9%98python3)
   pip3 install pandas
 
+sklearn 패키지 설치 (참고 : https://wikidocs.net/26300)
+  pip3 install scikit-learn
+
 python Documentation > Library Reference (참고 : https://docs.python.org/3/library/index.html)
 
 visual studio code 설치
