@@ -8,3 +8,5 @@ pyenv 구성하기 on Mac (참고 : https://jjeong.tistory.com/1514)
   brew install pyenv
   
 keras 설치_ 딥러닝 라이브러리 시작 (참고 : https://tykimos.github.io/2017/08/07/Keras_Install_on_Mac/)
+
+python Documentation > Library Reference (참고 : https://docs.python.org/3/library/index.html)
